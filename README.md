@@ -1,1 +1,1 @@
-# .github
+# kosen-tech-club
